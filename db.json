@@ -1,0 +1,15 @@
+{
+  "productos": [
+    { "id": 1, "nombre": "Laptop", "precio": 999 },
+    { "id": 2, "nombre": "Mouse", "precio": 25 },
+    { "id": 3, "nombre": "Teclado", "precio": 45 },
+    { "id": 4, "nombre": "Monitor 27\"", "precio": 320 },
+    { "id": 5, "nombre": "Auriculares", "precio": 75 },
+    { "id": 6, "nombre": "Webcam HD", "precio": 89 },
+    { "id": 7, "nombre": "Hub USB-C", "precio": 39 }
+  ],
+  "categorias": [
+    { "id": 1, "nombre": "Electrónica" },
+    { "id": 2, "nombre": "Periféricos" }
+  ]
+}
